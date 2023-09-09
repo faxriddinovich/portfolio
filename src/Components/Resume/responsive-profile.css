@@ -1,0 +1,300 @@
+@media (min-width:240px) and (max-width:360px){
+    .profile-section h1,.education-box h1{
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .profile-section p{
+        font-size: 16px;
+        padding: 0 5px;
+    }
+
+    .information-box label{
+        font-size: 18px;
+    }
+
+    .information-box p{
+        font-size: 17px;
+        margin-top: 5px;
+    }
+
+    .experience-box h1{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .experience-list, .education-box_list{
+        margin-top: 5px;
+        padding: 0 5px;
+    }
+
+    .experience-list-item, .education-box_list_item{
+        margin: 10px auto;
+    }
+
+    .desc h4{
+        font-size: 17px;
+    }
+
+    .desc p, .year p{
+        font-size: 15px;
+    }
+}
+
+@media (min-width:361px) and (max-width:390px){
+    .profile-section h1,.education-box h1{
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .profile-section p{
+        font-size: 16px;
+        padding: 0 5px;
+    }
+
+    .information-box label{
+        font-size: 18px;
+    }
+
+    .information-box p{
+        font-size: 17px;
+        margin-top: 5px;
+    }
+
+    .experience-box h1{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .experience-list, .education-box_list{
+        margin-top: 5px;
+        padding: 0 5px;
+    }
+
+    .experience-list-item, .education-box_list_item{
+        margin: 10px auto;
+    }
+
+    .desc h4{
+        font-size: 17px;
+    }
+
+    .desc p, .year p{
+        font-size: 15px;
+    }
+}
+
+@media (min-width:391px) and (max-width:470px){
+    .profile-section h1,.education-box h1{
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .profile-section p{
+        font-size: 16px;
+        padding: 0 5px;
+    }
+
+    .information-box label{
+        font-size: 18px;
+    }
+
+    .information-box p{
+        font-size: 17px;
+        margin-top: 5px;
+    }
+
+    .experience-box h1{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .experience-list, .education-box_list{
+        margin-top: 5px;
+        padding: 0 5px;
+    }
+
+    .experience-list-item, .education-box_list_item{
+        margin: 10px auto;
+    }
+
+    .desc h4{
+        font-size: 17px;
+    }
+
+    .desc p, .year p{
+        font-size: 15px;
+    }
+}
+
+@media (min-width:471px) and (max-width:550px){
+    .profile-section h1,.education-box h1{
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .profile-section p{
+        font-size: 16px;
+        padding: 0 5px;
+    }
+
+    .information-box label{
+        font-size: 18px;
+    }
+
+    .information-box p{
+        font-size: 17px;
+        margin-top: 5px;
+    }
+
+    .experience-box h1{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .experience-list, .education-box_list{
+        margin-top: 5px;
+        padding: 0 5px;
+    }
+
+    .experience-list-item, .education-box_list_item{
+        margin: 10px auto;
+    }
+
+    .desc h4{
+        font-size: 17px;
+    }
+
+    .desc p, .year p{
+        font-size: 15px;
+    }
+}
+
+@media (min-width:551px) and (max-width:770px){
+    .profile-section h1,.education-box h1{
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .profile-section p{
+        font-size: 16px;
+        padding: 0 5px;
+    }
+
+    .information-box label{
+        font-size: 18px;
+    }
+
+    .information-box p{
+        font-size: 17px;
+        margin-top: 5px;
+    }
+
+    .experience-box h1{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .experience-list, .education-box_list{
+        margin-top: 5px;
+        padding: 0 5px;
+    }
+
+    .experience-list-item, .education-box_list_item{
+        margin: 10px auto;
+    }
+
+    .desc h4{
+        font-size: 17px;
+    }
+
+    .desc p, .year p{
+        font-size: 15px;
+    }
+}
+
+@media (min-width:771px) and (max-width:890px){
+    .profile-section h1,.education-box h1{
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .profile-section p{
+        font-size: 18px;
+        padding: 0 5px;
+    }
+
+    .information-box label{
+        font-size: 20px;
+    }
+
+    .information-box p{
+        font-size: 20px;
+        margin-top: 5px;
+    }
+
+    .experience-box h1{
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+
+    .experience-list, .education-box_list{
+        margin-top: 5px;
+        padding: 0 5px;
+    }
+
+    .experience-list-item, .education-box_list_item{
+        margin: 10px auto;
+    }
+
+    .desc h4{
+        font-size: 20px;
+    }
+
+    .desc p, .year p{
+        font-size: 15px;
+    }
+}
+
+@media (min-width:771px) and (max-width:890px){
+    .profile-section h1,.education-box h1{
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .profile-section p{
+        font-size: 18px;
+        padding: 0 5px;
+    }
+
+    .information-box label{
+        font-size: 20px;
+    }
+
+    .information-box p{
+        font-size: 20px;
+        margin-top: 5px;
+    }
+
+    .experience-box h1{
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+
+    .experience-list, .education-box_list{
+        margin-top: 5px;
+        padding: 0 5px;
+    }
+
+    .experience-list-item, .education-box_list_item{
+        margin: 10px auto;
+    }
+
+    .desc h4{
+        font-size: 20px;
+    }
+
+    .desc p, .year p{
+        font-size: 15px;
+    }
+}

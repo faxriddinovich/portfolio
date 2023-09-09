@@ -1,0 +1,14 @@
+.main-section{
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.job-text{
+    color: #fff !important;
+    text-shadow: 0 0 0px #fff,
+                0 0 20px #fff,
+                0 0 40px #fff,
+                0 0 60px #fff;
+}

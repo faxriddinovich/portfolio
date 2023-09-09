@@ -1,0 +1,27 @@
+.blog-box{
+    height: 60vh;
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/projectsdb-cb8d9.appspot.com/o/Screenshot%20from%202023-09-01%2000-42-26.png?alt=media&token=c3eb59a1-3a82-48c0-b24c-ab2c25022a56');
+    border-radius: 4px;
+}
+
+.blog-desc-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    background-image: linear-gradient(90deg,#070707f7 50% , transparent 75%);
+    padding: 15px 20px;
+}
+
+.blog-desc-box a{
+    width: 200px;
+    height: 55px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #2f89fc;
+    color: #2f89fc;
+    text-decoration: none;
+    border-radius: 10px;
+}

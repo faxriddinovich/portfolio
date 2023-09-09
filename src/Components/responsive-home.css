@@ -1,0 +1,104 @@
+@media (min-width:240px) and (max-width:360px){
+    .main-section{
+        min-height: 45vh;
+        width: 100%;
+    }
+
+    .job-text{
+        font-size: 22px;
+    }
+
+    .main-section h2{
+        font-size: 20px;
+    }
+}
+
+@media (min-width:361px) and (max-width:390px){
+    .main-section{
+        min-height: 45vh;
+        width: 100%;
+    }
+
+    .job-text{
+        font-size: 22px;
+    }
+
+    .main-section h2{
+        font-size: 20px;
+    }
+}
+
+@media (min-width:391px) and (max-width:470px){
+    .main-section{
+        min-height: 45vh;
+        width: 100%;
+    }
+
+    .job-text{
+        font-size: 22px;
+    }
+
+    .main-section h2{
+        font-size: 20px;
+    }
+}
+
+@media (min-width:471px) and (max-width:550px){
+    .main-section{
+        min-height: 45vh;
+        width: 100%;
+    }
+
+    .job-text{
+        font-size: 27px;
+    }
+
+    .main-section h2{
+        font-size: 25px;
+    }
+}
+
+@media (min-width:551px) and (max-width:770px){
+    .main-section{
+        min-height: 45vh;
+        width: 100%;
+    }
+
+    .job-text{
+        font-size: 30px;
+    }
+
+    .main-section h2{
+        font-size: 27px;
+    }
+}
+
+@media (min-width:771px) and (max-width:890px){
+    .main-section{
+        min-height: 30vh;
+        width: 100%;
+    }
+
+    .job-text{
+        font-size: 30px;
+    }
+
+    .main-section h2{
+        font-size: 30px;
+    }
+}
+
+@media (min-width:891px) and (max-width:1048px){
+    .main-section{
+        min-height: 45vh;
+        width: 100%;
+    }
+
+    .job-text{
+        font-size: 37px;
+    }
+
+    .main-section h2{
+        font-size: 35px;
+    }
+}

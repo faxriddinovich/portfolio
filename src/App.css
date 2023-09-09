@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: "Poppins", Arial, sans-serif;
+  background: #121212;
+  font-size: 18px;
+  line-height: 1.8;
+  font-weight: 400;
+  color: #8c8c8c;
+  position: relative;
+}
